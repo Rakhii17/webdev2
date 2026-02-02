@@ -1,0 +1,7 @@
+in slicing negative integer works while in substring negative integer does not work.
+
+replace(search,replacement )
+to uppercase() and to lowecase() - used in user input 
+concat method 
+trim method trim()-removes whitespaces from both end of a string 
+

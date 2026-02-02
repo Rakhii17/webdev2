@@ -1,0 +1,22 @@
+differnece between  spreads operator and rest parameter
+q- differnence between settimeout and setinternal function
+spread operator expandds the array and     the string and gives the access of individual elements
+console.log([...fruits1,...fruits2])  
+
+ques9 wht is nullish coalescing operator? 
+it returns the right hand operand when the left hand operator is null or undefined otherwise it retrns the left hand operands
+
+#ternary ooerator : it is shortand for if else
+
+first class function : >in  first classs function  we can pass a function to a variable and we ARE treating the variable as function 
+WE CAN PASS A FUCNTION  INTO ANOTHER FUNCTION as an argument
+it can return a function from a function
+
+#ANNONYMOUS FUNCTION : function without a name. used as agrumments to other fucntion 
+
+
+#self invovoking function (iife - immediate innovking function) which is immediately executed 
+
+advanatage of iife 
+--- to obtain data privacy--
+-- dont give access to call anywhere--
