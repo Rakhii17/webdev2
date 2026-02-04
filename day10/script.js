@@ -29,8 +29,8 @@ let date = new Date()
 console. log (date);
 
 setInterval(()=>
-let date = new Date()
-console. log (date);
+    letdate = new Date()
+console.log(date);
 
 let hour = date. getHours () ;
 let min=date.getMinutes();
@@ -39,4 +39,4 @@ let second= date.getSeconds ();
 let clock = document.getElementById
 ("digi-clock");
 
-clock.textContent=hour
+clock.textContent=hour + ":" + min + ":" + second;
