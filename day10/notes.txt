@@ -1,0 +1,6 @@
+Common Event Handlers:
+
+1. onclick : Fires when an element is clicked.
+2. onmouseover : Fires when the mouse pointer is moved over an element.
+3. onmouseout : Fires when the mouse pointer is moved out of an element.
+4. onsubmit : Fires when a form is submitted.
