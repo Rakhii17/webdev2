@@ -1,0 +1,6 @@
+await is always nearer to promise
+
+Api - >> key
+   >> documentation
+
+   
