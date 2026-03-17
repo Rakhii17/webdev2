@@ -2,3 +2,5 @@ session end = session data end / removed
 acc to per tab data is occupy 
 
 local storage - can never be used for storing pass
+
+types  of error
