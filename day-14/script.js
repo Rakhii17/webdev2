@@ -24,7 +24,7 @@ fetch('https://jsonplaceholder.typicode.com/users')
 
 async function getData(city) {
 try{
-const API_Key = "af9f63c59a649f27d602b96a43d0bd14";
+const API_Key = "ad85876333aeca487dfc9fe18b923f40";
 const response = await fetch('https://api. openweathermap. org/data/2.5/weather?q=${city}&appid=${API_Key}&units=metric');
 const data = await response. json();
 console. log(city);
